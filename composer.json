@@ -1,0 +1,16 @@
+{
+  "name": "cjhaas/vendi-smph-news-algolia",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Chris Haas",
+      "email": "chris@vendiadvertising.com"
+    }
+  ],
+  "require": {
+
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^6.1"
+  }
+}
